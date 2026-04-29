@@ -1,10 +1,13 @@
 # Customer Churn Prediction
 
+## 📖 Project Overview
+This project predicts customer churn to help businesses take proactive steps to retain customers.
+
 ## 📌 Problem Statement
-Predict whether a customer will leave a service based on historical data.
+Customer churn leads to revenue loss and reduced business growth.
 
 ## 🎯 Objective
-To build a machine learning model for customer retention analysis.
+To build a machine learning model to identify customers likely to leave.
 
 ## 🛠 Tools & Technologies
 - Python
@@ -15,18 +18,18 @@ To build a machine learning model for customer retention analysis.
 Customer behavior dataset
 
 ## ⚙️ Approach
-- Data cleaning and preprocessing
-- Feature engineering
-- Model training (Logistic Regression, Random Forest)
-- Model evaluation
+- Cleaned and preprocessed data
+- Performed feature engineering
+- Trained classification models (Logistic Regression, Random Forest)
 
 ## 📈 Key Results
-- Achieved good accuracy in classification
-- Identified key churn factors
+- Achieved strong classification accuracy
+- Identified key churn indicators
 
 ## 💡 Business Insights
-- High churn in low-engagement customers
-- Service usage is a key factor
+- Customers with low engagement have significantly higher churn risk
+- Subscription length strongly impacts retention
+- Targeted retention strategies can reduce churn
 
 ## 🚀 Conclusion
-Helps businesses reduce customer loss using predictive analytics.
+This project helps businesses improve customer retention using predictive analytics.
