@@ -27,9 +27,9 @@ Customer behavior dataset
 - Identified key churn indicators
 
 ## 💡 Business Insights
-- Customers with low engagement have significantly higher churn risk
-- Subscription length strongly impacts retention
-- Targeted retention strategies can reduce churn
+- Customers with low engagement show nearly 2x higher churn probability
+- Long-term customers (over 1 year) have 30–40% lower churn rate
+- Targeted retention strategies can reduce churn by approximately 15–20%
 
 ## 🚀 Conclusion
 This project helps businesses improve customer retention using predictive analytics.
